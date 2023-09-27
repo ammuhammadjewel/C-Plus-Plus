@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1590576938 source:b:\all programme c++\c++a-z code\oop\myfirstclass\myfirstclass.cpp
+	"myfirstclass.h"
+	<iostream>
+
+1590580794 b:\all programme c++\c++a-z code\oop\myfirstclass\myfirstclass.h
+	"myfirstclass.h"
+
+1590581010 source:b:\all programme c++\c++a-z code\oop\myfirstclass\main.cpp
+	<iostream>
+	<conio.h>
+	"myfirstclass.h"
+
+1590585637 source:b:\all programme c++\c++a-z code\oop\myfirstclass\destructor.cpp
+	<iostream>
+

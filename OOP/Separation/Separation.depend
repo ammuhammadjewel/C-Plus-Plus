@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1590577082 source:b:\all programme c++\c++a-z code\oop\separation\myclass.cpp
+	"myclass.h"
+	<iostream>
+
+1590576421 b:\all programme c++\c++a-z code\oop\separation\myclass.h
+	"myclass.h"
+
+1590576421 source:b:\all programme c++\c++a-z code\oop\separation\main.cpp
+	<iostream>
+	<conio.h>
+	"myclass.h"
+
